@@ -1,6 +1,6 @@
 # Misc Tools
 
-Geolocation, EXIF analysis, recon tools, and other utilities that don't fit neatly into a single category.
+Geolocation, EXIF analysis, recon tools, and others 
 
 ---
 
@@ -11,7 +11,7 @@ Geolocation, EXIF analysis, recon tools, and other utilities that don't fit neat
 | EXIF.tools | [exif.tools](https://exif.tools) | Extract EXIF metadata from uploaded images (GPS, device, timestamp) |
 | GeoImgr | [geoimgr.com](https://www.geoimgr.com) | Map EXIF GPS data to a location |
 
-> If a photo has GPS coordinates in its EXIF data, GeoImgr will plot the exact location on a map.
+> If a photo has GPS coordinates in its EXIF data, GeoImgr will plot the exact location on a map
 
 ---
 
@@ -19,9 +19,9 @@ Geolocation, EXIF analysis, recon tools, and other utilities that don't fit neat
 
 | Tool | URL | Notes |
 |------|-----|-------|
-| Canary Tokens | [canarytokens.org](https://canarytokens.org/nest/) | Generate tracking tokens (URL, doc, email) that notify you when opened |
+| Canary Tokens | [canarytokens.org](https://canarytokens.org/nest/) | Generate tracking tokens that notify you when opened |
 
-> Pair with a URL shortener to disguise the canary link. Useful for confirming if a subject is active or tracking who opens a shared document.
+> Pair with a URL shortener to disguise the canary link
 
 ---
 
@@ -39,13 +39,9 @@ Geolocation, EXIF analysis, recon tools, and other utilities that don't fit neat
 | Tool | URL | Notes |
 |------|-----|-------|
 | Geo-Recon | [GitHub](https://github.com/radioactivetobi/geo-recon) | Geolocation OSINT tool |
-| ReconDog | [GitHub](https://github.com/s0md3v/ReconDog) | Multi-module recon tool (whois, DNS, ports, etc.) |
-| Osiris AI | [osirisai.live](https://osirisai.live) | AI-assisted OSINT recon |
+| ReconDog | [GitHub](https://github.com/s0md3v/ReconDog) | Multi module recon tool |
+| Osiris AI | [osirisai.live](https://osirisai.live) | AI assisted OSINT recon |
 
 ---
 
-## Tips
 
-- Always strip EXIF before sharing photos taken during fieldwork — your GPS coords may be embedded
-- Canary tokens are most effective when embedded in documents sent to a subject or uploaded to a shared space
-- PwnBin is useful for monitoring paste sites for mentions of a client's name or email
