@@ -1,6 +1,6 @@
 # Social Media OSINT
 
-Tools for researching individuals and activity across social platforms.
+Tools for social platform searching
 
 ---
 
@@ -8,10 +8,10 @@ Tools for researching individuals and activity across social platforms.
 
 | Tool | URL | Notes |
 |------|-----|-------|
-| Maigret | [GitHub](https://github.com/soxoj/maigret/releases) | Checks 500+ sites for a username; install locally |
-| Profil3r | [GitHub](https://github.com/Greyjedix/Profil3r) | Username + email cross-platform search |
-| OSINT.rocks | [osint.rocks](https://osint.rocks) | Web-based username/email lookup tool |
-| Internect | [internect.info](https://internect.info) | Cross-network identity search |
+| Maigret | [GitHub](https://github.com/soxoj/maigret/releases) | Checks sites for a username |
+| Profil3r | [GitHub](https://github.com/Greyjedix/Profil3r) | Username and email cross platform search |
+| OSINT.rocks | [osint.rocks](https://osint.rocks) | Web based username/email lookup tool |
+| Internect | [internect.info](https://internect.info) | Cross network identity search |
 
 ---
 
@@ -42,7 +42,5 @@ Tools for researching individuals and activity across social platforms.
 
 ## Tips
 
-- Always archive social media pages before approaching a subject — profiles get deleted
-- Use [archive.ph](https://archive.ph) or [archive.org](https://archive.org) to save snapshots
+- Always archive social media pages before approaching a subject
 - Cross-reference usernames across platforms with Maigret before engaging
-- Check profile photo with reverse image search (see [Google OSINT](google-osint.md))
