@@ -1,13 +1,12 @@
 # Operational Security
 
-Tools and practices for maintaining anonymity and creating cover identities during investigations.
+Tools and practices for maintaining anonymity and creating cover identities during investigations
 
 ---
 
 ## Cover Identity Setup
 
-When working undercover, establish a full alternate persona before beginning any investigation contact.
-
+When working undercover, establish a full alternate persona 
 **Core elements of a cover identity:**
 - Alternate name
 - Consistent location/backstory
@@ -18,7 +17,7 @@ When working undercover, establish a full alternate persona before beginning any
 - Profile picture (use AI-generated, never real people)
 - Plausible job/employer
 
-> **Rule:** Never mix your real identity with a cover identity across any platform.
+> Never mix your real identity with a cover identity across any platform
 
 ---
 
@@ -35,7 +34,7 @@ When working undercover, establish a full alternate persona before beginning any
 
 ## Notes
 
-- Use a **dedicated VM** (e.g., CSI Linux) for all investigation activity — keeps tools isolated and avoids cross-contamination with personal browsing
-- Use a **burner number** for any account registrations tied to the cover identity
-- Rotate temp emails per investigation or per platform
+- Use a **dedicated VM** (e.g., CSI Linux) for all investigation activity  keeps tools isolated and avoids cross-contamination with personal browsing
+- Use a **burner number** 
+- Rotate temp emails 
 - AI-generated profile photos: see [thispersondoesnotexist.com](https://thispersondoesnotexist.com) (also listed in [Deepfake Detection](deepfake-detection.md))
