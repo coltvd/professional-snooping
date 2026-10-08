@@ -25,12 +25,11 @@ Browser plugins useful for OSINT research and investigations.
 
 | Resource | URL | Notes |
 |----------|-----|-------|
-| OSINT Start.me | [start.me/p/6rOGjm/osint](https://start.me/p/6rOGjm/osint) | Curated OSINT tools dashboard — bookmark this |
+| OSINT Start.me | [start.me/p/6rOGjm/osint](https://start.me/p/6rOGjm/osint) | Curated OSINT tools dashboard |
 
 ---
 
 ## Tips
 
-- Keep OSINT browser extensions in a **dedicated browser profile** — don't mix with personal browsing
 - UA Switcher is useful when sites block certain browsers or for mimicking mobile devices
-- Pair Web Page Downloader with Archive.ph for belt-and-suspenders page preservation
+- Pair Web Page Downloader with Archive.ph for page preservation
