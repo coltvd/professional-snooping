@@ -44,7 +44,6 @@ Use for geolocation, verifying addresses, street view reconnaissance, and satell
 | Yandex Images | [yandex.com](https://yandex.com) | Strong for facial recognition matches |
 | TinEye | [tineye.com](https://tineye.com) | Tracks image history and first appearances |
 
-> **Tip:** Run all four engines — each indexes different content and Yandex is particularly strong for social media profile photos.
 
 ---
 
