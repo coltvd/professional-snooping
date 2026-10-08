@@ -1,12 +1,12 @@
 # Reverse Searches
 
-Tools for looking up people, contact info, and identifying images by working backward from partial data.
+Tools for looking up people
 
 ---
 
 ## Reverse Image Search
 
-See [Google OSINT](google-osint.md) for the full reverse image section.
+See [Google OSINT](google-osint.md) 
 
 | Engine | URL |
 |--------|-----|
@@ -21,11 +21,11 @@ See [Google OSINT](google-osint.md) for the full reverse image section.
 
 | Tool | URL | Notes |
 |------|-----|-------|
-| BeenVerified | [beenverified.com](https://www.beenverified.com) | Paid; people + email search |
+| BeenVerified | [beenverified.com](https://www.beenverified.com) | Paid, people and email search |
 | InfoTracer | [infotracer.com](https://infotracer.com) | Aggregated records |
 | Have I Been Pwned | [haveibeenpwned.com](https://haveibeenpwned.com) | Check if email appears in breach data |
-| Maltego | [maltego.com](https://www.maltego.com) | Relationship mapping; requires install |
-| Minerva OSINT | [minervaosint.com](https://minervaosint.com) | Email + username lookups |
+| Maltego | [maltego.com](https://www.maltego.com) | Relationship mapping |
+| Minerva OSINT | [minervaosint.com](https://minervaosint.com) | Email and username lookups |
 | MXToolbox Email Headers | [mxtoolbox.com/EmailHeaders.aspx](https://mxtoolbox.com/EmailHeaders.aspx) | Analyze email headers for sender info |
 
 ---
@@ -35,10 +35,10 @@ See [Google OSINT](google-osint.md) for the full reverse image section.
 | Tool | URL | Notes |
 |------|-----|-------|
 | Search Yellow Directory | [searchyellowdirectory.com](https://searchyellowdirectory.com) | Free reverse phone |
-| Yellow Pages | [yellowpages.com](https://www.yellowpages.com) | Business + residential |
+| Yellow Pages | [yellowpages.com](https://www.yellowpages.com) | Business and residential |
 | Comfi | [comfi.com/abook/reverse](https://www.comfi.com/abook/reverse) | Reverse directory |
-| SpyDialer | [spydialer.com](https://www.spydialer.com) | Free; reveals voicemail greetings |
-| NumLookup | [numlookup.com](https://www.numlookup.com) | Free carrier + name lookup |
-| US Phone Book | [usphonebook.com](https://www.usphonebook.com) | Name, address, relatives |
+| SpyDialer | [spydialer.com](https://www.spydialer.com) | Free, reveals voicemail greetings |
+| NumLookup | [numlookup.com](https://www.numlookup.com) | Free carrier and name lookup |
+| US Phone Book | [usphonebook.com](https://www.usphonebook.com) | Phone book |
 
-> **Tip:** SpyDialer can reveal voicemail greetings without alerting the owner — useful for confirming identity.
+> **Tip:** SpyDialer can reveal voicemail greetings without alerting the owner
